@@ -1,0 +1,49 @@
+
+nav{
+    margin: 20px;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+nav a{
+    color: white;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+body{
+    background-color:white;
+}
+
+section.visuals{
+    width: 10%;
+    float: left;
+}
+
+article {
+    display: inline-block;
+    width: 50%;
+    color: black;
+}
+
+div#wrapper {
+    padding: 50px;
+
+}
+
+div#wrapper1{
+    padding: 50px;
+    float: right;
+}
+
+footer{
+    clear: both;
+    color: white;
+    background-color:lightgreen;
+    padding: 30px;
+
+}
+
+footer a{
+    color: white;
+}
